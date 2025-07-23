@@ -2,8 +2,9 @@
 //  GameScene.swift
 //  EggDropOdyssey
 //
-//  Created by Baig, Muhammad on 11/9/23.
+//  Created by Baig, Muhammad on 11/9/2023
 //
+// All features on
 
 import SpriteKit
 import GameplayKit
@@ -314,7 +315,7 @@ class GameScene: SKScene {
         // Remove all nodes
         removeAllChildren()
 
-        // Add a black background
+     // Add a black background
      //   let blackBackground = SKSpriteNode(color: .black, size: self.size)
      //   blackBackground.position = CGPoint(x: frame.midX, y: frame.midY)
      //   blackBackground.zPosition = -1
